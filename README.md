@@ -1,4 +1,4 @@
-# Assistente Pessoal Completo (Atualizado)
+# Assistente Pessoal MultiAgente
 
 Este projeto utiliza um **workflow do n8n** chamado **“Assistente Pessoal Completo (Atualizado)”**.  
 Ele define um **orquestrador multiagente** que integra vários serviços (**Telegram, Gmail, Google Calendar, Google Contacts, Tavily, OpenAI, etc.**) para funcionar como um **assistente pessoal automatizado**.
