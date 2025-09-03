@@ -1,6 +1,6 @@
 # Assistente Pessoal MultiAgente
 
-Este projeto utiliza um **workflow do n8n** chamado **“Assistente Pessoal Completo (Atualizado)”**.  
+Este projeto utiliza um **workflow do n8n** chamado **“Assistente Pessoal MultiAgente”**.  
 Ele define um **orquestrador multiagente** que integra vários serviços (**Telegram, Gmail, Google Calendar, Google Contacts, Tavily, OpenAI, etc.**) para funcionar como um **assistente pessoal automatizado**.
 
 ---
@@ -102,4 +102,4 @@ Esse workflow implementa um **super assistente pessoal integrado ao Telegram**, 
 ---
 
 ## 📊 Visualização
-![Fluxograma do Assistente](assistente_pessoal_fluxo.png)
+![Fluxograma do Assistente](Diagrama_Fluxo_Agentes_IA.png)
